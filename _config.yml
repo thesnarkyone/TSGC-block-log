@@ -13,3 +13,5 @@ disqus-id:    "example" #leave blank if you dont want comments.
 markdown:     kramdown
 sass:
     style: :compressed
+
+theme: jekyll-theme-slate
